@@ -1,0 +1,10 @@
+{
+    "themes": {
+        "static": [
+            "class2"
+        ],
+        "dynamic": [
+            "default"
+        ]
+    }
+}

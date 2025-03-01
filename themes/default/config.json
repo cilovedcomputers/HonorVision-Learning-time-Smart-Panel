@@ -1,0 +1,16 @@
+{
+    "theme_name": "default",
+    "author": "xiaoxiaoci",
+    "style": {
+        "font_family": "",
+        "background": "<iframe src=\"themes/default/background.html\" importance=\"high\" name=\"background-box\" title=\"background-box\" />",
+        "background_color": {
+            "navbar": "rgba(81, 84, 255, 0.25)",
+            "notify": "rgba(81, 84, 255, 0.25)",
+            "buttons": {
+                "default": "rgba(81, 84, 255, 0.25)",
+                "mouseover": "rgba(81, 84, 255, 0.45)"
+            }
+        }
+    }
+}

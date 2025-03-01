@@ -1,0 +1,16 @@
+{
+    "theme_name": "class2",
+    "author": "xiaoxiaoci",
+    "style": {
+        "font_family": "",
+        "background": "<img src=\"themes/class2/background.jpg\" style=\"opacity: 0.35; filter: alpha(opacity = 35); object-fit: cover;\" alt=\"background\" />",
+        "background_color": {
+            "navbar": "rgba(253, 255, 106, 0.15)",
+            "notify": "rgba(253, 255, 106, 0.15)",
+            "buttons": {
+                "default": "rgba(253, 255, 106, 0.15)",
+                "mouseover": "rgba(253, 255, 106, 0.35)"
+            }
+        }
+    }
+}
